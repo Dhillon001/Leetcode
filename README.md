@@ -15,3 +15,15 @@ All solutions are written in **Python** and automatically uploaded using **LeetH
 
 ### 📂 Folder Structure
 Each problem has its own folder:
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/Dhillon001/Leetcode/tree/master/2058-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/Dhillon001/Leetcode/tree/master/2058-concatenation-of-array) |
+<!---LeetCode Topics End-->
