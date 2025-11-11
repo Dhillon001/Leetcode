@@ -9,7 +9,7 @@ All solutions are written in **Python** and automatically uploaded using **LeetH
 - Platform: [LeetCode](https://leetcode.com/)
 - Language: Python 🐍
 - Upload Tool: [LeetHub v2](https://chrome.google.com/webstore/detail/leethub-v2/nlhjgcaplnlophgjbklelchhgaemhfnc)
-- Goal: Solve problems daily and track progress on GitHub.
+- Goal: Solve problems and track progress on GitHub.
 
 ---
 
