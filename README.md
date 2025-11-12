@@ -22,6 +22,7 @@ Each problem has its own folder:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dhillon001/Leetcode/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/Dhillon001/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhillon001/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2058-concatenation-of-array](https://github.com/Dhillon001/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Simulation
@@ -36,4 +37,12 @@ Each problem has its own folder:
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhillon001/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Dhillon001/Leetcode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Dhillon001/Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
