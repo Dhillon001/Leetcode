@@ -14,7 +14,7 @@ All solutions are written in **Python** and automatically uploaded using **LeetH
 ---
 
 ### 📂 Folder Structure
-Each problem has its own folder:
+Each problem has its own folder -
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
