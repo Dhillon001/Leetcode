@@ -60,6 +60,7 @@ Each problem has its own folder -
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Dhillon001/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Dhillon001/Leetcode/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -104,4 +105,8 @@ Each problem has its own folder -
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/Dhillon001/Leetcode/tree/master/0706-design-hashmap) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Dhillon001/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
