@@ -28,6 +28,7 @@ Each problem has its own folder -
 | [0347-top-k-frequent-elements](https://github.com/Dhillon001/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0706-design-hashmap](https://github.com/Dhillon001/Leetcode/tree/master/0706-design-hashmap) |
 | [2058-concatenation-of-array](https://github.com/Dhillon001/Leetcode/tree/master/2058-concatenation-of-array) |
+| [3046-split-the-array](https://github.com/Dhillon001/Leetcode/tree/master/3046-split-the-array) |
 ## Simulation
 |  |
 | ------- |
@@ -38,6 +39,7 @@ Each problem has its own folder -
 | [0001-two-sum](https://github.com/Dhillon001/Leetcode/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Dhillon001/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0706-design-hashmap](https://github.com/Dhillon001/Leetcode/tree/master/0706-design-hashmap) |
+| [3046-split-the-array](https://github.com/Dhillon001/Leetcode/tree/master/3046-split-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,6 +95,7 @@ Each problem has its own folder -
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dhillon001/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [3046-split-the-array](https://github.com/Dhillon001/Leetcode/tree/master/3046-split-the-array) |
 ## Quickselect
 |  |
 | ------- |
