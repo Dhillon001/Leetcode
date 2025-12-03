@@ -61,6 +61,7 @@ Each problem has its own folder -
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Dhillon001/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/Dhillon001/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0706-design-hashmap](https://github.com/Dhillon001/Leetcode/tree/master/0706-design-hashmap) |
 ## String
 |  |
@@ -116,4 +117,8 @@ Each problem has its own folder -
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhillon001/Leetcode/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Dhillon001/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
