@@ -26,6 +26,7 @@ Each problem has its own folder -
 | [0088-merge-sorted-array](https://github.com/Dhillon001/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhillon001/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0347-top-k-frequent-elements](https://github.com/Dhillon001/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0697-degree-of-an-array](https://github.com/Dhillon001/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0706-design-hashmap](https://github.com/Dhillon001/Leetcode/tree/master/0706-design-hashmap) |
 | [0941-valid-mountain-array](https://github.com/Dhillon001/Leetcode/tree/master/0941-valid-mountain-array) |
 | [1470-shuffle-the-array](https://github.com/Dhillon001/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -40,6 +41,7 @@ Each problem has its own folder -
 | ------- |
 | [0001-two-sum](https://github.com/Dhillon001/Leetcode/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Dhillon001/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0697-degree-of-an-array](https://github.com/Dhillon001/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0706-design-hashmap](https://github.com/Dhillon001/Leetcode/tree/master/0706-design-hashmap) |
 | [3046-split-the-array](https://github.com/Dhillon001/Leetcode/tree/master/3046-split-the-array) |
 ## Dynamic Programming
