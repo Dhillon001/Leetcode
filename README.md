@@ -53,17 +53,20 @@ Each problem has its own folder -
 | ------- |
 | [0061-rotate-list](https://github.com/Dhillon001/Leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Dhillon001/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Dhillon001/Leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Dhillon001/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Dhillon001/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Dhillon001/Leetcode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Dhillon001/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Dhillon001/Leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Dhillon001/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/Dhillon001/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Dhillon001/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Dhillon001/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0706-design-hashmap](https://github.com/Dhillon001/Leetcode/tree/master/0706-design-hashmap) |
@@ -94,6 +97,7 @@ Each problem has its own folder -
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Dhillon001/Leetcode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Dhillon001/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -142,4 +146,8 @@ Each problem has its own folder -
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Dhillon001/Leetcode/tree/master/1492-the-kth-factor-of-n) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Dhillon001/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
