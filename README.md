@@ -51,6 +51,7 @@ Each problem has its own folder -
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Dhillon001/Leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Dhillon001/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/Dhillon001/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Sorting
@@ -61,6 +62,7 @@ Each problem has its own folder -
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Dhillon001/Leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Dhillon001/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/Dhillon001/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Dhillon001/Leetcode/tree/master/0234-palindrome-linked-list) |
