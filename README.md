@@ -26,6 +26,7 @@ Each problem has its own folder -
 | [0088-merge-sorted-array](https://github.com/Dhillon001/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhillon001/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0347-top-k-frequent-elements](https://github.com/Dhillon001/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0561-array-partition](https://github.com/Dhillon001/Leetcode/tree/master/0561-array-partition) |
 | [0697-degree-of-an-array](https://github.com/Dhillon001/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0706-design-hashmap](https://github.com/Dhillon001/Leetcode/tree/master/0706-design-hashmap) |
 | [0941-valid-mountain-array](https://github.com/Dhillon001/Leetcode/tree/master/0941-valid-mountain-array) |
@@ -61,6 +62,7 @@ Each problem has its own folder -
 | [0088-merge-sorted-array](https://github.com/Dhillon001/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Dhillon001/Leetcode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/Dhillon001/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0561-array-partition](https://github.com/Dhillon001/Leetcode/tree/master/0561-array-partition) |
 ## Linked List
 |  |
 | ------- |
@@ -150,4 +152,12 @@ Each problem has its own folder -
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Dhillon001/Leetcode/tree/master/0148-sort-list) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Dhillon001/Leetcode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Dhillon001/Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
