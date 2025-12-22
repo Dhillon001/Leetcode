@@ -148,6 +148,7 @@ Each problem has its own folder -
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Dhillon001/Leetcode/tree/master/0009-palindrome-number) |
 | [1492-the-kth-factor-of-n](https://github.com/Dhillon001/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 ## Number Theory
 |  |
