@@ -30,6 +30,7 @@ Each problem has its own folder -
 | [0561-array-partition](https://github.com/Dhillon001/Leetcode/tree/master/0561-array-partition) |
 | [0697-degree-of-an-array](https://github.com/Dhillon001/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0706-design-hashmap](https://github.com/Dhillon001/Leetcode/tree/master/0706-design-hashmap) |
+| [0896-monotonic-array](https://github.com/Dhillon001/Leetcode/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/Dhillon001/Leetcode/tree/master/0941-valid-mountain-array) |
 | [1470-shuffle-the-array](https://github.com/Dhillon001/Leetcode/tree/master/1470-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/Dhillon001/Leetcode/tree/master/2058-concatenation-of-array) |
