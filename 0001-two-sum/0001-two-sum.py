@@ -1,8 +1,8 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        pair_idx = {}
+        dictA = {}
 
         for i, num in enumerate(nums):
-            if target - num in pair_idx:
-                return [i, pair_idx[target - num]]
-            pair_idx[num] = i
+            if target - num in dictA:
+                return [i, dictA[target - num]]
+            dictA[num] = i
