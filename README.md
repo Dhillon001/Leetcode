@@ -23,6 +23,7 @@ Each problem has its own folder -
 | ------- |
 | [0001-two-sum](https://github.com/Dhillon001/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Dhillon001/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Dhillon001/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Dhillon001/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhillon001/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Dhillon001/Leetcode/tree/master/0217-contains-duplicate) |
@@ -59,6 +60,7 @@ Each problem has its own folder -
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Dhillon001/Leetcode/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/Dhillon001/Leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Dhillon001/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Dhillon001/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -67,6 +69,7 @@ Each problem has its own folder -
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Dhillon001/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Dhillon001/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Dhillon001/Leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Dhillon001/Leetcode/tree/master/0217-contains-duplicate) |
