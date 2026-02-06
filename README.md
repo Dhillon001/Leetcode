@@ -39,6 +39,7 @@ Each problem has its own folder -
 | [2058-concatenation-of-array](https://github.com/Dhillon001/Leetcode/tree/master/2058-concatenation-of-array) |
 | [3046-split-the-array](https://github.com/Dhillon001/Leetcode/tree/master/3046-split-the-array) |
 | [3151-special-array-i](https://github.com/Dhillon001/Leetcode/tree/master/3151-special-array-i) |
+| [3637-trionic-array-i](https://github.com/Dhillon001/Leetcode/tree/master/3637-trionic-array-i) |
 ## Simulation
 |  |
 | ------- |
