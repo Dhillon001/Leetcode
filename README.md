@@ -32,6 +32,7 @@ Each problem has its own folder -
 | [0697-degree-of-an-array](https://github.com/Dhillon001/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0706-design-hashmap](https://github.com/Dhillon001/Leetcode/tree/master/0706-design-hashmap) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dhillon001/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0817-linked-list-components](https://github.com/Dhillon001/Leetcode/tree/master/0817-linked-list-components) |
 | [0896-monotonic-array](https://github.com/Dhillon001/Leetcode/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/Dhillon001/Leetcode/tree/master/0941-valid-mountain-array) |
 | [1122-relative-sort-array](https://github.com/Dhillon001/Leetcode/tree/master/1122-relative-sort-array) |
@@ -54,6 +55,7 @@ Each problem has its own folder -
 | [0347-top-k-frequent-elements](https://github.com/Dhillon001/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0697-degree-of-an-array](https://github.com/Dhillon001/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0706-design-hashmap](https://github.com/Dhillon001/Leetcode/tree/master/0706-design-hashmap) |
+| [0817-linked-list-components](https://github.com/Dhillon001/Leetcode/tree/master/0817-linked-list-components) |
 | [1122-relative-sort-array](https://github.com/Dhillon001/Leetcode/tree/master/1122-relative-sort-array) |
 | [3046-split-the-array](https://github.com/Dhillon001/Leetcode/tree/master/3046-split-the-array) |
 ## Dynamic Programming
@@ -91,6 +93,7 @@ Each problem has its own folder -
 | [0206-reverse-linked-list](https://github.com/Dhillon001/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Dhillon001/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0706-design-hashmap](https://github.com/Dhillon001/Leetcode/tree/master/0706-design-hashmap) |
+| [0817-linked-list-components](https://github.com/Dhillon001/Leetcode/tree/master/0817-linked-list-components) |
 ## String
 |  |
 | ------- |
