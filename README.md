@@ -37,6 +37,7 @@ Each problem has its own folder -
 | [0941-valid-mountain-array](https://github.com/Dhillon001/Leetcode/tree/master/0941-valid-mountain-array) |
 | [1122-relative-sort-array](https://github.com/Dhillon001/Leetcode/tree/master/1122-relative-sort-array) |
 | [1470-shuffle-the-array](https://github.com/Dhillon001/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1920-build-array-from-permutation](https://github.com/Dhillon001/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Dhillon001/Leetcode/tree/master/2058-concatenation-of-array) |
 | [3046-split-the-array](https://github.com/Dhillon001/Leetcode/tree/master/3046-split-the-array) |
 | [3151-special-array-i](https://github.com/Dhillon001/Leetcode/tree/master/3151-special-array-i) |
@@ -44,6 +45,7 @@ Each problem has its own folder -
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/Dhillon001/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Dhillon001/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
