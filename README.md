@@ -51,6 +51,7 @@ Each problem has its own folder -
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dhillon001/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Dhillon001/Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Dhillon001/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Dhillon001/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dhillon001/Leetcode/tree/master/0242-valid-anagram) |
@@ -99,6 +100,7 @@ Each problem has its own folder -
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Dhillon001/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Dhillon001/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Dhillon001/Leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Dhillon001/Leetcode/tree/master/0242-valid-anagram) |
@@ -170,6 +172,7 @@ Each problem has its own folder -
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Dhillon001/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Dhillon001/Leetcode/tree/master/0013-roman-to-integer) |
 | [1492-the-kth-factor-of-n](https://github.com/Dhillon001/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 ## Number Theory
 |  |
