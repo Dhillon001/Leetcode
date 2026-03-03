@@ -103,6 +103,7 @@ Each problem has its own folder -
 | [0706-design-hashmap](https://github.com/Dhillon001/Leetcode/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/Dhillon001/Leetcode/tree/master/0707-design-linked-list) |
 | [0817-linked-list-components](https://github.com/Dhillon001/Leetcode/tree/master/0817-linked-list-components) |
+| [1367-linked-list-in-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -120,16 +121,19 @@ Each problem has its own folder -
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
