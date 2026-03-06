@@ -144,6 +144,7 @@ Each problem has its own folder -
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Dhillon001/Leetcode/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/Dhillon001/Leetcode/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Dhillon001/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -223,4 +224,8 @@ Each problem has its own folder -
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Dhillon001/Leetcode/tree/master/0039-combination-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Dhillon001/Leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
