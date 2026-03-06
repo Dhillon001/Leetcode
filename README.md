@@ -38,6 +38,7 @@ Each problem has its own folder -
 | [0817-linked-list-components](https://github.com/Dhillon001/Leetcode/tree/master/0817-linked-list-components) |
 | [0896-monotonic-array](https://github.com/Dhillon001/Leetcode/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/Dhillon001/Leetcode/tree/master/0941-valid-mountain-array) |
+| [0986-interval-list-intersections](https://github.com/Dhillon001/Leetcode/tree/master/0986-interval-list-intersections) |
 | [1122-relative-sort-array](https://github.com/Dhillon001/Leetcode/tree/master/1122-relative-sort-array) |
 | [1470-shuffle-the-array](https://github.com/Dhillon001/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1920-build-array-from-permutation](https://github.com/Dhillon001/Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -82,6 +83,7 @@ Each problem has its own folder -
 | [0143-reorder-list](https://github.com/Dhillon001/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Dhillon001/Leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Dhillon001/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0986-interval-list-intersections](https://github.com/Dhillon001/Leetcode/tree/master/0986-interval-list-intersections) |
 ## Sorting
 |  |
 | ------- |
@@ -228,4 +230,8 @@ Each problem has its own folder -
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Dhillon001/Leetcode/tree/master/0190-reverse-bits) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Dhillon001/Leetcode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
