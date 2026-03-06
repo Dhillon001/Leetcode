@@ -117,6 +117,7 @@ Each problem has its own folder -
 | [0020-valid-parentheses](https://github.com/Dhillon001/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhillon001/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/Dhillon001/Leetcode/tree/master/0242-valid-anagram) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Dhillon001/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Trie
 |  |
 | ------- |
