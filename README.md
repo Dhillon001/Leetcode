@@ -27,6 +27,7 @@ Each problem has its own folder -
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhillon001/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dhillon001/Leetcode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Dhillon001/Leetcode/tree/master/0039-combination-sum) |
+| [0066-plus-one](https://github.com/Dhillon001/Leetcode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Dhillon001/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Dhillon001/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhillon001/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -199,6 +200,7 @@ Each problem has its own folder -
 | ------- |
 | [0009-palindrome-number](https://github.com/Dhillon001/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Dhillon001/Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Dhillon001/Leetcode/tree/master/0066-plus-one) |
 | [1492-the-kth-factor-of-n](https://github.com/Dhillon001/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 ## Number Theory
 |  |
