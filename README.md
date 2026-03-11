@@ -27,6 +27,7 @@ Each problem has its own folder -
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhillon001/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dhillon001/Leetcode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Dhillon001/Leetcode/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/Dhillon001/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Dhillon001/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhillon001/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Dhillon001/Leetcode/tree/master/0217-contains-duplicate) |
@@ -118,6 +119,7 @@ Each problem has its own folder -
 | [0014-longest-common-prefix](https://github.com/Dhillon001/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Dhillon001/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhillon001/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/Dhillon001/Leetcode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/Dhillon001/Leetcode/tree/master/0242-valid-anagram) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Dhillon001/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Trie
@@ -133,6 +135,7 @@ Each problem has its own folder -
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Dhillon001/Leetcode/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
@@ -226,6 +229,7 @@ Each problem has its own folder -
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Dhillon001/Leetcode/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/Dhillon001/Leetcode/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -234,4 +238,8 @@ Each problem has its own folder -
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Dhillon001/Leetcode/tree/master/0986-interval-list-intersections) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Dhillon001/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
