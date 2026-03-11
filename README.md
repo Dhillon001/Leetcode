@@ -32,6 +32,7 @@ Each problem has its own folder -
 | [0088-merge-sorted-array](https://github.com/Dhillon001/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhillon001/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Dhillon001/Leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Dhillon001/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Dhillon001/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/Dhillon001/Leetcode/tree/master/0561-array-partition) |
 | [0697-degree-of-an-array](https://github.com/Dhillon001/Leetcode/tree/master/0697-degree-of-an-array) |
@@ -85,6 +86,7 @@ Each problem has its own folder -
 | [0143-reorder-list](https://github.com/Dhillon001/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Dhillon001/Leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Dhillon001/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Dhillon001/Leetcode/tree/master/0283-move-zeroes) |
 | [0986-interval-list-intersections](https://github.com/Dhillon001/Leetcode/tree/master/0986-interval-list-intersections) |
 ## Sorting
 |  |
