@@ -36,6 +36,7 @@ Each problem has its own folder -
 | [0347-top-k-frequent-elements](https://github.com/Dhillon001/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/Dhillon001/Leetcode/tree/master/0561-array-partition) |
 | [0697-degree-of-an-array](https://github.com/Dhillon001/Leetcode/tree/master/0697-degree-of-an-array) |
+| [0704-binary-search](https://github.com/Dhillon001/Leetcode/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/Dhillon001/Leetcode/tree/master/0706-design-hashmap) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dhillon001/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0817-linked-list-components](https://github.com/Dhillon001/Leetcode/tree/master/0817-linked-list-components) |
@@ -224,6 +225,7 @@ Each problem has its own folder -
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/Dhillon001/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dhillon001/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## String Matching
 |  |
