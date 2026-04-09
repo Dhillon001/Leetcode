@@ -205,6 +205,7 @@ Each problem has its own folder -
 | ------- |
 | [0009-palindrome-number](https://github.com/Dhillon001/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Dhillon001/Leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Dhillon001/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Dhillon001/Leetcode/tree/master/0066-plus-one) |
 | [1492-the-kth-factor-of-n](https://github.com/Dhillon001/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 ## Number Theory
@@ -241,6 +242,7 @@ Each problem has its own folder -
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Dhillon001/Leetcode/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/Dhillon001/Leetcode/tree/master/0190-reverse-bits) |
 ## Sweep Line
 |  |
