@@ -135,6 +135,7 @@ Each problem has its own folder -
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Dhillon001/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
@@ -142,12 +143,14 @@ Each problem has its own folder -
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Dhillon001/Leetcode/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/Dhillon001/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Dhillon001/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
@@ -199,6 +202,7 @@ Each problem has its own folder -
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Dhillon001/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Math
 |  |
