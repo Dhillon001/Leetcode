@@ -73,6 +73,7 @@ Each problem has its own folder -
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Dhillon001/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhillon001/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
@@ -216,6 +217,7 @@ Each problem has its own folder -
 | [0013-roman-to-integer](https://github.com/Dhillon001/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Dhillon001/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Dhillon001/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Dhillon001/Leetcode/tree/master/0070-climbing-stairs) |
 | [1492-the-kth-factor-of-n](https://github.com/Dhillon001/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 ## Number Theory
 |  |
@@ -265,4 +267,8 @@ Each problem has its own folder -
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhillon001/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Dhillon001/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
