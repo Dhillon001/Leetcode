@@ -251,6 +251,7 @@ Each problem has its own folder -
 | ------- |
 | [0039-combination-sum](https://github.com/Dhillon001/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Dhillon001/Leetcode/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/Dhillon001/Leetcode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Dhillon001/Leetcode/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
