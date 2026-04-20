@@ -31,6 +31,7 @@ Each problem has its own folder -
 | [0066-plus-one](https://github.com/Dhillon001/Leetcode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Dhillon001/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Dhillon001/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhillon001/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhillon001/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Dhillon001/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Dhillon001/Leetcode/tree/master/0283-move-zeroes) |
@@ -141,6 +142,7 @@ Each problem has its own folder -
 | ------- |
 | [0100-same-tree](https://github.com/Dhillon001/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhillon001/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Depth-First Search
@@ -156,11 +158,13 @@ Each problem has its own folder -
 | ------- |
 | [0100-same-tree](https://github.com/Dhillon001/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhillon001/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhillon001/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Dhillon001/Leetcode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/Dhillon001/Leetcode/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Dhillon001/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -274,4 +278,8 @@ Each problem has its own folder -
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Dhillon001/Leetcode/tree/master/0070-climbing-stairs) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhillon001/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
