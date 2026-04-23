@@ -220,6 +220,7 @@ Each problem has its own folder -
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhillon001/Leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Dhillon001/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Dhillon001/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Dhillon001/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Dhillon001/Leetcode/tree/master/0029-divide-two-integers) |
