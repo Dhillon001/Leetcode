@@ -75,6 +75,7 @@ Each problem has its own folder -
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Dhillon001/Leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Dhillon001/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhillon001/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
@@ -129,6 +130,7 @@ Each problem has its own folder -
 | [0013-roman-to-integer](https://github.com/Dhillon001/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Dhillon001/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Dhillon001/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Dhillon001/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhillon001/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/Dhillon001/Leetcode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/Dhillon001/Leetcode/tree/master/0242-valid-anagram) |
@@ -253,6 +255,7 @@ Each problem has its own folder -
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Dhillon001/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Dhillon001/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Dhillon001/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Dhillon001/Leetcode/tree/master/0077-combinations) |
