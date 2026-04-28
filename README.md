@@ -227,6 +227,7 @@ Each problem has its own folder -
 | [0066-plus-one](https://github.com/Dhillon001/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Dhillon001/Leetcode/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/Dhillon001/Leetcode/tree/master/0263-ugly-number) |
+| [0367-valid-perfect-square](https://github.com/Dhillon001/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1492-the-kth-factor-of-n](https://github.com/Dhillon001/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 ## Number Theory
 |  |
@@ -248,6 +249,7 @@ Each problem has its own folder -
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/Dhillon001/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Dhillon001/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dhillon001/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## String Matching
