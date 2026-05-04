@@ -28,6 +28,7 @@ Each problem has its own folder -
 | [0027-remove-element](https://github.com/Dhillon001/Leetcode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Dhillon001/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Dhillon001/Leetcode/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/Dhillon001/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Dhillon001/Leetcode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Dhillon001/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Dhillon001/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -81,6 +82,7 @@ Each problem has its own folder -
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Dhillon001/Leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Dhillon001/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Dhillon001/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhillon001/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0313-super-ugly-number](https://github.com/Dhillon001/Leetcode/tree/master/0313-super-ugly-number) |
@@ -181,6 +183,7 @@ Each problem has its own folder -
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Dhillon001/Leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhillon001/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Dhillon001/Leetcode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/Dhillon001/Leetcode/tree/master/0190-reverse-bits) |
