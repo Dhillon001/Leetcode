@@ -26,6 +26,7 @@ Each problem has its own folder -
 | [0015-3sum](https://github.com/Dhillon001/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhillon001/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dhillon001/Leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Dhillon001/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Dhillon001/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Dhillon001/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Dhillon001/Leetcode/tree/master/0053-maximum-subarray) |
@@ -280,6 +281,7 @@ Each problem has its own folder -
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Dhillon001/Leetcode/tree/master/0035-search-insert-position) |
 | [0367-valid-perfect-square](https://github.com/Dhillon001/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Dhillon001/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dhillon001/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
