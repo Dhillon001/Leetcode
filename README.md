@@ -91,6 +91,7 @@ Each problem has its own folder -
 | [0097-interleaving-string](https://github.com/Dhillon001/Leetcode/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhillon001/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0313-super-ugly-number](https://github.com/Dhillon001/Leetcode/tree/master/0313-super-ugly-number) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Dhillon001/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0509-fibonacci-number](https://github.com/Dhillon001/Leetcode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -265,6 +266,7 @@ Each problem has its own folder -
 | [0263-ugly-number](https://github.com/Dhillon001/Leetcode/tree/master/0263-ugly-number) |
 | [0313-super-ugly-number](https://github.com/Dhillon001/Leetcode/tree/master/0313-super-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/Dhillon001/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Dhillon001/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Dhillon001/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0509-fibonacci-number](https://github.com/Dhillon001/Leetcode/tree/master/0509-fibonacci-number) |
 | [1492-the-kth-factor-of-n](https://github.com/Dhillon001/Leetcode/tree/master/1492-the-kth-factor-of-n) |
@@ -336,4 +338,8 @@ Each problem has its own folder -
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Dhillon001/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Dhillon001/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
