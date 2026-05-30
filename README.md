@@ -22,6 +22,7 @@ Each problem has its own folder -
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dhillon001/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Dhillon001/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Dhillon001/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Dhillon001/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Dhillon001/Leetcode/tree/master/0018-4sum) |
@@ -197,6 +198,7 @@ Each problem has its own folder -
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Dhillon001/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Dhillon001/Leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhillon001/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Dhillon001/Leetcode/tree/master/0148-sort-list) |
@@ -290,6 +292,7 @@ Each problem has its own folder -
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Dhillon001/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Dhillon001/Leetcode/tree/master/0035-search-insert-position) |
 | [0367-valid-perfect-square](https://github.com/Dhillon001/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Dhillon001/Leetcode/tree/master/0704-binary-search) |
