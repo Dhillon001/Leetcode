@@ -268,6 +268,7 @@ Each problem has its own folder -
 | [0013-roman-to-integer](https://github.com/Dhillon001/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Dhillon001/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Dhillon001/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Dhillon001/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Dhillon001/Leetcode/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/Dhillon001/Leetcode/tree/master/0263-ugly-number) |
 | [0313-super-ugly-number](https://github.com/Dhillon001/Leetcode/tree/master/0313-super-ugly-number) |
@@ -298,6 +299,7 @@ Each problem has its own folder -
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dhillon001/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Dhillon001/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Dhillon001/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Dhillon001/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Dhillon001/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dhillon001/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
