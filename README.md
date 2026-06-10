@@ -179,6 +179,7 @@ Each problem has its own folder -
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhillon001/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Dhillon001/Leetcode/tree/master/0112-path-sum) |
 | [1367-linked-list-in-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -191,6 +192,7 @@ Each problem has its own folder -
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Dhillon001/Leetcode/tree/master/0112-path-sum) |
 | [1367-linked-list-in-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -204,6 +206,7 @@ Each problem has its own folder -
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhillon001/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Dhillon001/Leetcode/tree/master/0112-path-sum) |
 | [1367-linked-list-in-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -265,6 +268,7 @@ Each problem has its own folder -
 | [0102-binary-tree-level-order-traversal](https://github.com/Dhillon001/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Dhillon001/Leetcode/tree/master/0112-path-sum) |
 ## Math
 |  |
 | ------- |
