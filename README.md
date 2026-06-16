@@ -28,6 +28,7 @@ Each problem has its own folder -
 | [0018-4sum](https://github.com/Dhillon001/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhillon001/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dhillon001/Leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Dhillon001/Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Dhillon001/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Dhillon001/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Dhillon001/Leetcode/tree/master/0046-permutations) |
@@ -105,6 +106,7 @@ Each problem has its own folder -
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhillon001/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dhillon001/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhillon001/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Dhillon001/Leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Dhillon001/Leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Dhillon001/Leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Dhillon001/Leetcode/tree/master/0088-merge-sorted-array) |
