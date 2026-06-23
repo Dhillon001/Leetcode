@@ -93,6 +93,7 @@ Each problem has its own folder -
 | [0022-generate-parentheses](https://github.com/Dhillon001/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Dhillon001/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Dhillon001/Leetcode/tree/master/0070-climbing-stairs) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Dhillon001/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/Dhillon001/Leetcode/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhillon001/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0313-super-ugly-number](https://github.com/Dhillon001/Leetcode/tree/master/0313-super-ugly-number) |
@@ -174,6 +175,7 @@ Each problem has its own folder -
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhillon001/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Dhillon001/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/Dhillon001/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Dhillon001/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Dhillon001/Leetcode/tree/master/0100-same-tree) |
@@ -201,6 +203,7 @@ Each problem has its own folder -
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhillon001/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Dhillon001/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/Dhillon001/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Dhillon001/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Dhillon001/Leetcode/tree/master/0100-same-tree) |
@@ -329,6 +332,7 @@ Each problem has its own folder -
 | [0046-permutations](https://github.com/Dhillon001/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Dhillon001/Leetcode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Dhillon001/Leetcode/tree/master/0079-word-search) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Dhillon001/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -355,6 +359,7 @@ Each problem has its own folder -
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Dhillon001/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/Dhillon001/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Dhillon001/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhillon001/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
