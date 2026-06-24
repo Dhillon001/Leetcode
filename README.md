@@ -32,6 +32,7 @@ Each problem has its own folder -
 | [0033-search-in-rotated-sorted-array](https://github.com/Dhillon001/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dhillon001/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Dhillon001/Leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Dhillon001/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Dhillon001/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Dhillon001/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Dhillon001/Leetcode/tree/master/0056-merge-intervals) |
@@ -331,6 +332,7 @@ Each problem has its own folder -
 | ------- |
 | [0022-generate-parentheses](https://github.com/Dhillon001/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Dhillon001/Leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Dhillon001/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Dhillon001/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Dhillon001/Leetcode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Dhillon001/Leetcode/tree/master/0079-word-search) |
