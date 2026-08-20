@@ -95,6 +95,7 @@ Each problem has its own folder -
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dhillon001/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Dhillon001/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Dhillon001/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Dhillon001/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Dhillon001/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Dhillon001/Leetcode/tree/master/0070-climbing-stairs) |
@@ -173,6 +174,7 @@ Each problem has its own folder -
 | [0020-valid-parentheses](https://github.com/Dhillon001/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Dhillon001/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhillon001/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Dhillon001/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Dhillon001/Leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Dhillon001/Leetcode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Dhillon001/Leetcode/tree/master/0097-interleaving-string) |
@@ -265,6 +267,7 @@ Each problem has its own folder -
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhillon001/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Dhillon001/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Dhillon001/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Dhillon001/Leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhillon001/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
@@ -390,4 +393,8 @@ Each problem has its own folder -
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dhillon001/Leetcode/tree/master/0042-trapping-rain-water) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Dhillon001/Leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
