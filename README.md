@@ -43,6 +43,7 @@ Each problem has its own folder -
 | [0079-word-search](https://github.com/Dhillon001/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Dhillon001/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhillon001/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Dhillon001/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhillon001/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Dhillon001/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Dhillon001/Leetcode/tree/master/0217-contains-duplicate) |
@@ -101,6 +102,7 @@ Each problem has its own folder -
 | [0070-climbing-stairs](https://github.com/Dhillon001/Leetcode/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Dhillon001/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/Dhillon001/Leetcode/tree/master/0097-interleaving-string) |
+| [0118-pascals-triangle](https://github.com/Dhillon001/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhillon001/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0313-super-ugly-number](https://github.com/Dhillon001/Leetcode/tree/master/0313-super-ugly-number) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Dhillon001/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
