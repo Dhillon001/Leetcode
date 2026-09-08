@@ -184,6 +184,7 @@ Each problem has its own folder -
 | [0032-longest-valid-parentheses](https://github.com/Dhillon001/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Dhillon001/Leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Dhillon001/Leetcode/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/Dhillon001/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Dhillon001/Leetcode/tree/master/0097-interleaving-string) |
 | [0242-valid-anagram](https://github.com/Dhillon001/Leetcode/tree/master/0242-valid-anagram) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Dhillon001/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -362,6 +363,7 @@ Each problem has its own folder -
 | [0077-combinations](https://github.com/Dhillon001/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Dhillon001/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Dhillon001/Leetcode/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/Dhillon001/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Dhillon001/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Bit Manipulation
 |  |
