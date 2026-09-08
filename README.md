@@ -41,6 +41,7 @@ Each problem has its own folder -
 | [0056-merge-intervals](https://github.com/Dhillon001/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Dhillon001/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Dhillon001/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Dhillon001/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Dhillon001/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Dhillon001/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhillon001/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -359,12 +360,14 @@ Each problem has its own folder -
 | [0040-combination-sum-ii](https://github.com/Dhillon001/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Dhillon001/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Dhillon001/Leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Dhillon001/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Dhillon001/Leetcode/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Dhillon001/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Dhillon001/Leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Dhillon001/Leetcode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Dhillon001/Leetcode/tree/master/0190-reverse-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Dhillon001/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sweep Line
