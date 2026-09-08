@@ -208,6 +208,7 @@ Each problem has its own folder -
 | [0110-balanced-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Dhillon001/Leetcode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Dhillon001/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1367-linked-list-in-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -221,6 +222,7 @@ Each problem has its own folder -
 | [0110-balanced-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Dhillon001/Leetcode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Dhillon001/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1367-linked-list-in-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -237,6 +239,7 @@ Each problem has its own folder -
 | [0110-balanced-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Dhillon001/Leetcode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Dhillon001/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1367-linked-list-in-binary-tree](https://github.com/Dhillon001/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -282,6 +285,7 @@ Each problem has its own folder -
 | [0071-simplify-path](https://github.com/Dhillon001/Leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhillon001/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Dhillon001/Leetcode/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Dhillon001/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Dhillon001/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
