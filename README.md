@@ -74,6 +74,7 @@ Each problem has its own folder -
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Dhillon001/Leetcode/tree/master/0067-add-binary) |
 | [1920-build-array-from-permutation](https://github.com/Dhillon001/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Dhillon001/Leetcode/tree/master/2058-concatenation-of-array) |
 | [3379-transformed-array](https://github.com/Dhillon001/Leetcode/tree/master/3379-transformed-array) |
@@ -182,6 +183,7 @@ Each problem has its own folder -
 | [0022-generate-parentheses](https://github.com/Dhillon001/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhillon001/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Dhillon001/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0067-add-binary](https://github.com/Dhillon001/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Dhillon001/Leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Dhillon001/Leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Dhillon001/Leetcode/tree/master/0093-restore-ip-addresses) |
@@ -314,6 +316,7 @@ Each problem has its own folder -
 | [0013-roman-to-integer](https://github.com/Dhillon001/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Dhillon001/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Dhillon001/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Dhillon001/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Dhillon001/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Dhillon001/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Dhillon001/Leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -373,6 +376,7 @@ Each problem has its own folder -
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Dhillon001/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Dhillon001/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Dhillon001/Leetcode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Dhillon001/Leetcode/tree/master/0190-reverse-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Dhillon001/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
