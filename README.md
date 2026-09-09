@@ -319,6 +319,7 @@ Each problem has its own folder -
 | [0067-add-binary](https://github.com/Dhillon001/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Dhillon001/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Dhillon001/Leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Dhillon001/Leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Dhillon001/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0263-ugly-number](https://github.com/Dhillon001/Leetcode/tree/master/0263-ugly-number) |
 | [0313-super-ugly-number](https://github.com/Dhillon001/Leetcode/tree/master/0313-super-ugly-number) |
@@ -370,6 +371,7 @@ Each problem has its own folder -
 | [0077-combinations](https://github.com/Dhillon001/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Dhillon001/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Dhillon001/Leetcode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Dhillon001/Leetcode/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/Dhillon001/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Dhillon001/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Bit Manipulation
@@ -378,6 +380,7 @@ Each problem has its own folder -
 | [0029-divide-two-integers](https://github.com/Dhillon001/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Dhillon001/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Dhillon001/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Dhillon001/Leetcode/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/Dhillon001/Leetcode/tree/master/0190-reverse-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Dhillon001/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sweep Line
